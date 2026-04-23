@@ -1,0 +1,109 @@
+﻿Project Name,Date,Location,Treatment ID,Treatment,Site,Organic Matter,SOD ,N2 Flux,N Trial
+SG Oyster Culture,6/14/21,Newport R,C no OY-1,Flat,NPR,7.33,389,-1.77,Ambient
+SG Oyster Culture,6/14/21,Newport R,C no OY-2,Flat,NPR,7.12,336,18.76,Ambient
+SG Oyster Culture,6/14/21,Newport R,C no OY-3,Flat,NPR,8.9,523,12.32,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY B Cage-1,Bottom Cage,NPR,1.85,227,17.65,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY B Cage-2,Bottom Cage,NPR,2.07,373,30.94,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY B Cage-3,Bottom Cage,NPR,1.66,555,23.77,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY float-M-1,Floating Bags,NPR,0.56,345,18.42,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY float-M-2,Floating Bags,NPR,0.66,610,22.92,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY float-M-3,Floating Bags,NPR,0.63,498,22.85,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY float-edge-1,Floating Bags Edge,NPR,0.66,910,16.67,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY float-edge-2,Floating Bags Edge,NPR,0.5,1000,36.35,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY float-edge-3,Floating Bags Edge,NPR,N/A,2532,41.91,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY LOB-1,Loose on Bottom,NPR,12.73,2118,24.82,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY LOB-2,Loose on Bottom,NPR,10.8,2956,367.28,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY LOB-3,Loose on Bottom,NPR,14.31,2947,355.15,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY Wild-1,Natural Reef,NPR,8.61,2674,364.76,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY Wild-2,Natural Reef,NPR,2.55,2487,380.97,Ambient
+SG Oyster Culture,6/14/21,Newport R,OY Wild-3,Natural Reef,NPR,10.64,2794,186.11,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,C no OY-1,Flat,SS,7.85,410,-27.91,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,C no OY-2,Flat,SS,7.53,615,-39.79,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,C no OY-3,Flat,SS,8.02,725,77.96,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY B Cage-1,Bottom Cage,SS,4.62,2563,97.97,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY B Cage-2,Bottom Cage,SS,2.66,2728,83.97,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY B Cage-3,Bottom Cage,SS,5.09,2761,85.85,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY float-M-1,Floating Bags,SS,2.28,1096,-18.91,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY float-M-2,Floating Bags,SS,3.46,2576,109.92,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY float-M-3,Floating Bags,SS,2.93,918,79.53,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY float-edge-1,Floating Bags Edge,SS,0.72,293,-44.38,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY float-edge-2,Floating Bags Edge,SS,2.57,358,-38.53,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY float-edge-3,Floating Bags Edge,SS,3.24,687,-47.45,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY LOB-1,Loose on Bottom,SS,2.04,795,40.22,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY LOB-2,Loose on Bottom,SS,2.54,354,14.35,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY LOB-3,Loose on Bottom,SS,1.76,639,4.76,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY Wild-1,Natural Reef,SS,2.27,713,21.49,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY Wild-2,Natural Reef,SS,12.77,1060,18.67,Ambient
+SG Oyster Culture,6/21/21,Stump Sound,OY Wild-3,Natural Reef,SS,N/A,417,117.89,Ambient
+SG Oyster Culture,6/28/21,Core Sound,C no OY-1,Flat,CS,2.42,910,30.02,Ambient
+SG Oyster Culture,6/28/21,Core Sound,C no OY-2,Flat,CS,0.66,401,9.03,Ambient
+SG Oyster Culture,6/28/21,Core Sound,C no OY-3,Flat,CS,0.65,562,25.24,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY B Cage-1,Bottom Cage,CS,2.85,167,5.89,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY B Cage-2,Bottom Cage,CS,1.3,1060,6.4,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY B Cage-3,Bottom Cage,CS,1.5,500,-5.55,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY float-M-1,Floating Bags,CS,5.88,2148,65.12,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY float-M-2,Floating Bags,CS,6.18,2222,51.18,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY float-M-3,Floating Bags,CS,1.33,1254,53.32,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY float-edge-1,Floating Bags Edge,CS,2.56,991,60.34,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY float-edge-2,Floating Bags Edge,CS,2.41,787,51.75,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY float-edge-3,Floating Bags Edge,CS,3.06,1008,50.02,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY LOB-1,Loose on Bottom,CS,1.36,749,-37.17,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY LOB-2,Loose on Bottom,CS,1.77,980,62.1,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY LOB-3,Loose on Bottom,CS,0.66,1276,52.93,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY Wild-1,Natural Reef,CS,2.27,2551,57.54,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY Wild-2,Natural Reef,CS,0.96,2187,44.98,Ambient
+SG Oyster Culture,6/28/21,Core Sound,OY Wild-3,Natural Reef,CS,1.33,1011,24.22,Ambient
+SG Oyster Culture,6/14/21,Newport R,C no OY-1,Flat,NPR,,,9.67,Enriched
+SG Oyster Culture,6/14/21,Newport R,C no OY-2,Flat,NPR,,,16.52,Enriched
+SG Oyster Culture,6/14/21,Newport R,C no OY-3,Flat,NPR,,,16.87,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY B Cage-1,Bottom Cage,NPR,,,13.15,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY B Cage-2,Bottom Cage,NPR,,,30.81,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY B Cage-3,Bottom Cage,NPR,,,19.37,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY float-M-1,Floating Bags,NPR,,,11.2,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY float-M-2,Floating Bags,NPR,,,17.13,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY float-M-3,Floating Bags,NPR,,,13.13,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY float-edge-1,Floating Bags Edge,NPR,,,24.45,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY float-edge-2,Floating Bags Edge,NPR,,,35.08,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY float-edge-3,Floating Bags Edge,NPR,,,251.97,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY LOB-1,Loose on Bottom,NPR,,,191.61,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY LOB-2,Loose on Bottom,NPR,,,170.11,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY LOB-3,Loose on Bottom,NPR,,,157.82,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY Wild-1,Natural Reef,NPR,,,305.52,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY Wild-2,Natural Reef,NPR,,,283.65,Enriched
+SG Oyster Culture,6/14/21,Newport R,OY Wild-3,Natural Reef,NPR,,,280.1,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,C no OY-1,Flat,SS,,,46.96,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,C no OY-2,Flat,SS,,,53.97,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,C no OY-3,Flat,SS,,,207.44,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY B Cage-1,Bottom Cage,SS,,,225.65,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY B Cage-2,Bottom Cage,SS,,,194.41,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY B Cage-3,Bottom Cage,SS,,,186.28,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY float-M-1,Floating Bags,SS,,,118.22,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY float-M-2,Floating Bags,SS,,,185.06,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY float-M-3,Floating Bags,SS,,,107.01,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY float-edge-1,Floating Bags Edge,SS,,,30.7,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY float-edge-2,Floating Bags Edge,SS,,,122.25,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY float-edge-3,Floating Bags Edge,SS,,,125.75,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY LOB-1,Loose on Bottom,SS,,,118.73,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY LOB-2,Loose on Bottom,SS,,,126.98,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY LOB-3,Loose on Bottom,SS,,,123.82,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY Wild-1,Natural Reef,SS,,,105.1,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY Wild-2,Natural Reef,SS,,,100.73,Enriched
+SG Oyster Culture,6/21/21,Stump Sound,OY Wild-3,Natural Reef,SS,,,109.95,Enriched
+SG Oyster Culture,6/28/21,Core Sound,C no OY-1,Flat,CS,,,99.33,Enriched
+SG Oyster Culture,6/28/21,Core Sound,C no OY-2,Flat,CS,,,120.07,Enriched
+SG Oyster Culture,6/28/21,Core Sound,C no OY-3,Flat,CS,,,143.25,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY B Cage-1,Bottom Cage,CS,,,-156.53,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY B Cage-2,Bottom Cage,CS,,,50.61,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY B Cage-3,Bottom Cage,CS,,,162.07,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY float-M-1,Floating Bags,CS,,,163.81,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY float-M-2,Floating Bags,CS,,,125.77,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY float-M-3,Floating Bags,CS,,,109.24,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY float-edge-1,Floating Bags Edge,CS,,,47.38,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY float-edge-2,Floating Bags Edge,CS,,,165.26,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY float-edge-3,Floating Bags Edge,CS,,,168.46,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY LOB-1,Loose on Bottom,CS,,,71.42,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY LOB-2,Loose on Bottom,CS,,,168.09,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY LOB-3,Loose on Bottom,CS,,,155.16,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY Wild-1,Natural Reef,CS,,,65.54,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY Wild-2,Natural Reef,CS,,,27,Enriched
+SG Oyster Culture,6/28/21,Core Sound,OY Wild-3,Natural Reef,CS,,,59.81,Enriched
