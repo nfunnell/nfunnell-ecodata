@@ -1,4 +1,4 @@
-### This repository provides the data for "A foundation species' realized niche expands via post-settlement transplant across a first-order environmental gradient," for review at _Ecology_
+### This repository provides the data for "A foundation species' realized niche expands via post-settlement transplant across a first-order environmental gradient," for review at _Ecosphere_
 
 ### Artificial reef units were placed along a typical estuarine salinity gradient (~18-30 ppt) in one estuary and six tidal creeks to test for the presence of population bottlenecks associated with location along first-order environmental gradient (salinity) and life history (pre- and post-settlement). 
 
