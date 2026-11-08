@@ -1,1 +1,1 @@
-### Applied marine ecologist @ UNC Chapel Hill's Institute of Marine Sciences
+### Applied marine ecologist @ Colby College
